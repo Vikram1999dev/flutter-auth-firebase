@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAyCrB-VOWzsCVj2SY453_jMiZ4six6bdw',
-    appId: '1:918852455609:android:c926bfc0662ab859c69f68',
-    messagingSenderId: '918852455609',
-    projectId: 'flutter-firebase-auth-3556c',
-    storageBucket: 'flutter-firebase-auth-3556c.appspot.com',
+    apiKey: 'xxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxx',
+    appId: 'x:xxxxxxxxxxx:xxxxxxxx:xxxxxxxxxxxxxxx',
+    messagingSenderId: 'xxxxxxxxxxxx',
+    projectId: 'xxxxxxx-xxxxxxxx-xxxx-xxxxxx',
+    storageBucket: 'xxxxxxxx-xxxxxxxx-xxxx-xxxxx.xxxxxxx.xxx',
   );
 }
