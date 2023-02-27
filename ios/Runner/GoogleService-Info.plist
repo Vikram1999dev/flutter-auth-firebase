@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>918852455609-mdk9f1pdgc69cn4hf3bi8pffofn3od58.apps.googleusercontent.com</string>
+	<string>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.918852455609-mdk9f1pdgc69cn4hf3bi8pffofn3od58</string>
+	<string>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB_zTbVAcM6DHL8mcT6SA7s5INx4--UF5I</string>
+	<string>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</string>
 	<key>GCM_SENDER_ID</key>
-	<string>918852455609</string>
+	<string>xxxxxxxxxxxxxxxxxxxxx</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.flutterAuthFirebase</string>
 	<key>PROJECT_ID</key>
-	<string>flutter-firebase-auth-3556c</string>
+	<string>xxxxxxxxxxxxxxxxxxxxxx</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutter-firebase-auth-3556c.appspot.com</string>
+	<string>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:918852455609:ios:58e7266fac5e3c61c69f68</string>
+	<string>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</string>
 </dict>
 </plist>
