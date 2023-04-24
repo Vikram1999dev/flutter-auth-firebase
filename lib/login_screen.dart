@@ -23,8 +23,7 @@ class _LoginScreenState extends State<LoginScreen> {
     if (formState != null && formState.validate()) {
       formState.save();
       try {
-        final credential =
-            await FirebaseAuth.instance.signInWithEmailAndPassword(
+        final credential = await FirebaseAuth.instance.signInWithEmailAndPassword(
           email: _email!,
           password: _password!,
         );
